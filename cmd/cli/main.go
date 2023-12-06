@@ -7,6 +7,6 @@ func main() {
 	fmt.Println("Hello, Go CLI!")
 }
 
-funct execute() {
+func execute() {
 // do something
 }
